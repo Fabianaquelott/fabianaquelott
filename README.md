@@ -1,6 +1,6 @@
-# Hello, guys! 
+# Hello, guys! 🧠
 
-# CONTATOS:
+# Talk to me? ✉
 
 <code>
     <div>
@@ -21,5 +21,6 @@
 - 🎓 Estou no 4° período de Ciência da Computação na Uni-BH.
 - 🌱 Além dos meus estudos acadêmicos, atualmente estou aprendendo a linguagem C#.
 - 💬 Gosto muito de aprender coisas novas, sempre buscando conhecimentos.
+- 🧠 Arriscando de vez em sempre no design gráfico.
 
 -->
