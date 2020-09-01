@@ -1,4 +1,5 @@
 # Hello, guys! 
+
 # CONTATOS:
 
 <code>
@@ -14,7 +15,8 @@
         <a/>
     </div>
     </code>
-
+            
+# Sobre mim:
 - 🔭 Atualmente trabalhando como Suporte Técnico no IPSEMG.
 - 🎓 Estou no 4° período de Ciência da Computação na Uni-BH.
 - 🌱 Além dos meus estudos acadêmicos, atualmente estou aprendendo a linguagem C#.
