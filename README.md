@@ -18,7 +18,7 @@
             
 ## Sobre mim:
 - 🔭 Atualmente trabalhando como Suporte Técnico no IPSEMG.
-- 🎓 Estou no 4° período de Ciência da Computação na Uni-BH.
+- 🎓 Estou no 3° período de Ciência da Computação na Uni-BH.
 - 🌱 Além dos meus estudos acadêmicos, atualmente estou aprendendo a linguagem C#.
 - 💬 Gosto muito de aprender coisas novas, sempre buscando conhecimentos.
 - 🧠 Arriscando de vez em sempre no design gráfico.
