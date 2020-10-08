@@ -17,9 +17,9 @@
     </code>
             
 ## Sobre mim:
-- 🔭 Atualmente trabalhando como Suporte Técnico no IPSEMG.
+- 🔭 Atualmente trabalhando como desenvolvedora estagiária da Dti Digital.
 - 🎓 Estou no 3° período de Ciência da Computação na Uni-BH.
-- 🌱 Além dos meus estudos acadêmicos, atualmente estou aprendendo a linguagem C#.
+- 🌱 Além dos meus estudos acadêmicos, atualmente estou aprendendo a linguagem C# e JavaScript.
 - 💬 Gosto muito de aprender coisas novas, sempre buscando conhecimentos.
 - 🧠 Arriscando de vez em sempre no design gráfico.
 
