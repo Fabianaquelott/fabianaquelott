@@ -21,4 +21,5 @@
 - 🎓 Estou no 3° período de Ciência da Computação na Uni-BH.
 - 🌱 Além dos meus estudos acadêmicos, atualmente estou aprendendo a linguagem C# e JavaScript.
 - 💬 Gosto muito de aprender coisas novas, sempre buscando conhecimentos.
+
 -->
