@@ -16,10 +16,10 @@
     </div>
     </code>
             
-## Sobre mim:
-- 🔭 Atualmente trabalhando como desenvolvedora estagiária da Dti Digital.
-- 🎓 Estou no 3° período de Ciência da Computação na Uni-BH.
-- 🌱 Além dos meus estudos acadêmicos, atualmente estou aprendendo a linguagem C# e JavaScript.
-- 💬 Gosto muito de aprender coisas novas, sempre buscando conhecimentos.
+## About me:
+- 🔭 Currently working as an intern developer at Dti Digital.
+- 🎓 I am in the 3rd period of Computer Science at Uni-BH.
+- 🌱 In addition to my academic studies, I am currently learning C # and JavaScript.
+- 💬 I love to learn new things, always looking for knowledge.
 
 -->
