@@ -1,6 +1,6 @@
 # Hello, guys! 🧠
 
-## Talk to me? ✉
+## Let's talk? ✉
 
 <code>
     <div>
