@@ -17,9 +17,8 @@
     </code>
             
 ## About me:
-- 🔭 Currently working as an intern developer at Dti Digital.
-- 🎓 I am in the 3rd period of Computer Science at Uni-BH.
-- 🌱 In addition to my academic studies, I am currently learning C # and JavaScript.
+- 🔭 Currently working as a software developer at DTI Digital.
+- 🎓 I am in the 4rd period of Computer Science at Uni-BH.
 - 💬 I love to learn new things, always looking for knowledge.
 
 -->
