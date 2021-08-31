@@ -17,7 +17,7 @@
 </body>
  
 
-###About me:
+### About me:
 - 🔭 Currently working as a software developer at DTI Digital.
 - 🎓 I am in the 4rd period of Computer Science at Uni-BH.
 - 💬 I love to learn new things, always looking for knowledge.
