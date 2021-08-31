@@ -13,10 +13,13 @@
             <img align="left" alt="WhatsApp" width="22px" src="https://toppng.com/public/uploads/thumbnail/whatsapp-logo-png-transparent-logo-whatsapp-115628966244xsiz4ydhh.png" />
         <span/>
 </body>
-            
+ 
+<div>
 ## About me:
 - 🔭 Currently working as a software developer at DTI Digital.
 - 🎓 I am in the 4rd period of Computer Science at Uni-BH.
 - 💬 I love to learn new things, always looking for knowledge.
 
--->
+-->                            
+</div>
+
