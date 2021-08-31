@@ -16,7 +16,7 @@
         </div>
 </body>
  
-
+##
 ## About me:
 - 🔭 Currently working as a software developer at DTI Digital.
 - 🎓 I am in the 4rd period of Computer Science at Uni-BH.
