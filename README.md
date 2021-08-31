@@ -15,7 +15,7 @@
         <span/>
         </div>
 </body>
-                <body>a</body>
+                <body>⠀</body>
 
 ## About me:
 - 🔭 Currently working as a software developer at DTI Digital.
