@@ -13,10 +13,10 @@
                 <span href="https://api.whatsapp.com/send?phone=5531997804817">
             <img align="left" alt="WhatsApp" width="22px" src="https://toppng.com/public/uploads/thumbnail/whatsapp-logo-png-transparent-logo-whatsapp-115628966244xsiz4ydhh.png" />
         <span/>
+                        <div></div>
         </div>
 </body>
- 
-##
+
 ## About me:
 - 🔭 Currently working as a software developer at DTI Digital.
 - 🎓 I am in the 4rd period of Computer Science at Uni-BH.
