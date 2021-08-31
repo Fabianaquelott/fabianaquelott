@@ -2,7 +2,7 @@
 
 ## Let's talk? ✉
 
-<code>
+<pre>
         <span href="https://www.linkedin.com/in/fabiana-quelott-900904158/">
             <img align="left" alt="LinkedIN" width="22px" src="https://i.pinimg.com/originals/58/99/22/589922e187ab719d0afa9c4c2993019b.png" />
         <span/>
@@ -12,7 +12,7 @@
                 <span href="https://api.whatsapp.com/send?phone=5531997804817">
             <img align="left" alt="WhatsApp" width="22px" src="https://toppng.com/public/uploads/thumbnail/whatsapp-logo-png-transparent-logo-whatsapp-115628966244xsiz4ydhh.png" />
         <span/>
-</code>
+</pre>
             
 ## About me:
 - 🔭 Currently working as a software developer at DTI Digital.
