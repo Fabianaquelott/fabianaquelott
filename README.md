@@ -1,7 +1,7 @@
 
 
 # Hello, everyone! 
-  Student of the 6rd period of Computer Science. 
+
 - 🔭 I’m currently studying the 7rd period of computer science.
 - 🤖 I'm currently working with the Java language as a backend.
 - 👾 I've also worked as a fullstack using JavaScript/React.
