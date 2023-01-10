@@ -11,7 +11,7 @@
      
 - 🎨 Below is a mobile app made for an academic work in JavaScript/React Native:
 
-     [<img src="https://img.shields.io/badge/ReactNative-Mobile-9cf" />](https://github.com/Fabianaquelott/Wine-Api)
+     [<img src="https://img.shields.io/badge/ReactNative-Mobile-9cf" />](https://github.com/Fabianaquelott/AdotaPet-Mobile)
 
 #### For more information, send me a message on Linkedin:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabiana-quelott-900904158/)
