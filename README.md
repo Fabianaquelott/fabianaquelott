@@ -13,5 +13,5 @@
 
      [<img src="https://img.shields.io/badge/ReactNative-Mobile-9cf" />](https://github.com/Fabianaquelott/AdotaPet-Mobile)
 
-#### For more information, send me a message on Linkedin:
+#### For more information, send me a message on LinkedIn:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabiana-quelott-900904158/)
